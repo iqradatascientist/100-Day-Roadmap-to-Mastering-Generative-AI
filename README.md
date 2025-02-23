@@ -9,7 +9,7 @@ Embarking on a 100-day journey to master Generative AI is an exciting endeavor. 
 
 ### Days 1-10: Introduction to AI and Python
 - **Day 1**: Understand the basics of AI.
-  - **Resource**: AI Overview
+  - **Resource**: [AI Overview](https://www.geeksforgeeks.org/100-days-of-gate-data-science-ai)
 - **Days 2-3**: Learn Python programming essentials.
   - **Resource**: [Python for Beginners](https://www.youtube.com/link-to-python-course)
 - **Days 4-5**: Explore data manipulation with libraries like NumPy and Pandas.

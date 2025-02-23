@@ -1,5 +1,5 @@
 # 🌟 100-Day Generative AI Mastery Roadmap
-
+![100-day Journey to Master Generative AI](https://i.pinimg.com/736x/de/24/72/de2472e31f02d6f3c26bc7f60c08cd4c.jpg)
 Welcome to your 100-day journey to master Generative AI. This structured roadmap will guide you from foundational concepts to advanced applications, incorporating high-quality resources from platforms like GitHub, Coursera, and YouTube.
 
 ## 🚀 Overview
